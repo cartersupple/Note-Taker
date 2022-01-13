@@ -181,3 +181,4 @@ if (window.location.pathname === '/notes') {
 }
 
 getAndRenderNotes();
+console.log("index.js is connected")

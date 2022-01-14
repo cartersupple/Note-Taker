@@ -10,11 +10,11 @@ Note Taker is an application to write, save, and delete user created notes. Usin
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation 
-View on Heroku:
+View on Heroku: https://carter-note-taker.herokuapp.com/
+
 Clone the github repository to use the functionallity:
     Install node.js packages with the command: npm install
     Install express.js: if not installed already
